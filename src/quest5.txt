@@ -1,0 +1,2 @@
+gillianp@ox-t1 door_configuration % vim door_1.conf
+Press i, make changes, click ESC, write :wq at the bottom
